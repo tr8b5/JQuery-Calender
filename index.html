@@ -168,6 +168,12 @@
       if (moment().format("h") < $("p").text) {
           $("textarea").addClass("future")
       }
+      if (moment().format("h") = $("p").text) {
+          $("textarea").addClass("present")
+      }
+      if (moment().format("h") > $("p").text) {
+          $("textarea").addClass("past")
+      }
 
       console.log(moment());
     </script>
