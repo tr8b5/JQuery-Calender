@@ -16,5 +16,5 @@
 
 #Screenshots
 
-![Screenshot 1](./images/schsht1.png)
-![Screenshot 2](./images/schsht2.png)
+![Screenshot 1](./Images/schsht1.png)
+![Screenshot 2](./Images/schsht2.png)
